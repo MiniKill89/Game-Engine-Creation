@@ -1,0 +1,3 @@
+﻿  Program8.cpp
+c:\users\fiercepc\onedrive - staffordshire university\program 8\program 8\program8.cpp(6): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Program 8.vcxproj -> C:\Users\FiercePC\OneDrive - Staffordshire University\Program 8\Debug\Program 8.exe
